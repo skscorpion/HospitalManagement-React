@@ -1,0 +1,9 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+
+export const ADD_PATIENT = 'ADD_PATIENT';
+export const SELECTED_PATIENT = 'SELECTED_PATIENT';
+export const FETCH_PATIENTS = 'FETCH_PATIENTS';
+export const FETCH_PATIENTS_ERROR = 'FETCH_PATIENTS_ERROR';
+export const SET_PATIENTS = 'SET_PATIENTS';
+export const LOADING_PATIENTS = 'SET_PATIENTS';
